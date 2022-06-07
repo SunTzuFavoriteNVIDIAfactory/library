@@ -24,7 +24,13 @@
     +Tra cứu những đầu sách mà chủ tài khoản đã mượn    
     ![image](https://user-images.githubusercontent.com/105979341/172464938-6d6cfa50-9505-45f4-b3cd-389127ab13a7.png)
 
-PS, do chưa có nhiều kinh nghiệm trong việc lập trình web nên trang web của chúng em nhìn khá là sơ sài và thiếu chuyên nghiệp, mong thầy bỏ qua cho :<
+
+
+
+
+
+P.S. Do chưa có nhiều kinh nghiệm trong việc lập trình web nên trang web của chúng em nhìn khá là sơ sài và thiếu chuyên nghiệp, mong thầy bỏ qua cho :<
+Kí tên: Trần Ngọc Tuấn - K65K
 .\
 .\
 .\
@@ -109,5 +115,5 @@ PS, do chưa có nhiều kinh nghiệm trong việc lập trình web nên trang 
 
 
 
-PS, https://www.youtube.com/watch?v=dQw4w9WgXcQ ;)
+P.P.S https://www.youtube.com/watch?v=dQw4w9WgXcQ ;)
     
