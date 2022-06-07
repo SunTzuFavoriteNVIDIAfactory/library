@@ -21,8 +21,11 @@
     +Tra cứu trạng thái mượn trả của từng đầu sách 
     ![image](https://user-images.githubusercontent.com/105979341/172464998-7a9f700c-4427-4a6f-be43-190cc6eed436.png)
 
-    +Tra cứu những đầu sách mà chủ tài khoản đã mượn    
-    ![image](https://user-images.githubusercontent.com/105979341/172464938-6d6cfa50-9505-45f4-b3cd-389127ab13a7.png)
+    +Tra cứu những đầu sách mà chủ tài khoản đã mượn 
+    
+    ![image](https://user-images.githubusercontent.com/105979341/172466804-c28cfcbe-7c9b-4aa9-9ff5-506f5d58d701.png)
+
+    
 
 
 
