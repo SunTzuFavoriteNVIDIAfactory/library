@@ -19,6 +19,7 @@
   
   # Tính năng
     -Tra cứu trạng thái mượn trả của từng đầu sách 
+    -Tra cứu những đầu sách mà chủ tài khoản đã mượn
     
 
     
