@@ -18,11 +18,13 @@
   ![image](https://user-images.githubusercontent.com/105979341/172463403-4795d611-3978-4ebd-8f83-6f987856d5d6.png)
   
   -Tính năng
-    +Tra cứu trạng thái mượn trả của từng đầu sách  ![image](https://user-images.githubusercontent.com/105979341/172463926-2440b92d-56b2-4aad-af35-e4727843020c.png)
-    
-    +Tra cứu những đầu sách mà chủ tài khoản đã mượn    ![image](https://user-images.githubusercontent.com/105979341/172464157-ba95a32a-c231-4073-8d8a-0d69be042f88.png)
-.\
-.\
+    +Tra cứu trạng thái mượn trả của từng đầu sách 
+    ![image](https://user-images.githubusercontent.com/105979341/172464998-7a9f700c-4427-4a6f-be43-190cc6eed436.png)
+
+    +Tra cứu những đầu sách mà chủ tài khoản đã mượn    
+    ![image](https://user-images.githubusercontent.com/105979341/172464938-6d6cfa50-9505-45f4-b3cd-389127ab13a7.png)
+
+PS, do chưa có nhiều kinh nghiệm trong việc lập trình web nên trang web của chúng em nhìn khá là sơ sài và thiếu chuyên nghiệp, mong thầy bỏ qua cho :<
 .\
 .\
 .\
