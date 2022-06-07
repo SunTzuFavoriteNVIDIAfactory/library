@@ -23,7 +23,7 @@
    
     +Tra cứu những đầu sách mà chủ tài khoản đã mượn
     
-    ![image](https://user-images.githubusercontent.com/105979341/172466929-9a7d3807-1369-470f-86d7-650cfab0527f.png)
+    
 
 
     
