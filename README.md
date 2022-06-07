@@ -19,10 +19,15 @@
   
   -Tính năng
     +Tra cứu trạng thái mượn trả của từng đầu sách 
-    
-    ![image](https://user-images.githubusercontent.com/105979341/172464998-7a9f700c-4427-4a6f-be43-190cc6eed436.png)
-   
     +Tra cứu những đầu sách mà chủ tài khoản đã mượn
+    
+    ![image](https://user-images.githubusercontent.com/105979341/172467577-173f8875-d3ec-40b9-aaf9-82b9f362779e.png)
+
+![image](https://user-images.githubusercontent.com/105979341/172467632-ca494b74-567f-4ff2-a801-cbef41dcd631.png)
+
+    
+   
+
     
     
 
