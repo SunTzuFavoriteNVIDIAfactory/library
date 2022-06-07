@@ -79,7 +79,8 @@
 
 
 
-P.S. Do chưa có nhiều kinh nghiệm trong việc lập trình web nên trang web của chúng em nhìn khá là sơ sài và thiếu chuyên nghiệp, mong thầy bỏ qua cho :<
+P.S. Do chưa có nhiều kinh nghiệm trong việc lập trình web nên trang web của chúng em nhìn khá là sơ sài và thiếu chuyên nghiệp, mong thầy thông cảm ạ :<
+
 Kí tên: Trần Ngọc Tuấn - K65K
 .\
 .\
